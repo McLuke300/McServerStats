@@ -1,0 +1,14 @@
+name: McServerStats
+
+version: 1.1
+
+description: Fun stats about your server
+author: McLuke300
+
+main: me.mcluke300.mcserverstats.mcserverstats
+
+commands:
+   MSS:
+      description: Short for /McServerStats
+   McServerStats:
+      description: McServerStats command guide
